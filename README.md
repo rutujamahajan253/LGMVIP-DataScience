@@ -14,6 +14,7 @@ Task 2- Stock Market Prediction And Forecasting Using Stacked LSTM
 https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
 Task 3- Music Recommendation
+
 https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 
 
